@@ -1,6 +1,8 @@
-Hiya! I like to be ✨creative✨
+# Hiya! My name is Eliana :)
 
-<!---
-204870/204870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a NLP and DSP enthusiast with a particular focus on using computational methods to process speech!
+
+## What kind of projects have I worked on?
+- A corpus of snnotated speech data of Latine and African-American English
+- A memory solution for Large Language Models that reflects Long Term Memory in Humans
+- Hate Speech Classification using data from Twitter
